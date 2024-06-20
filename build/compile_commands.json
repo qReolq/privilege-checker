@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/admin/CLionProjects/PrivilegeChecker/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -D_ATL_NO_AUTOMATIC_NAMESPACE -D_CRT_SECURE_NO_WARNINGS -I/VC/Tools/MSVC/14.29.30133/include -g -std=gnu++17 -o CMakeFiles\\PrivilegeChecker.dir\\main.cpp.obj -c C:\\Users\\admin\\CLionProjects\\PrivilegeChecker\\main.cpp",
+  "file": "C:\\Users\\admin\\CLionProjects\\PrivilegeChecker\\main.cpp",
+  "output": "CMakeFiles\\PrivilegeChecker.dir\\main.cpp.obj"
+}
+]
